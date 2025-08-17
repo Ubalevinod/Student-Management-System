@@ -36,3 +36,260 @@
     transform: rotate(360deg);
   }
 }
+/* For all the forms in the project */
+.allfroms{
+  width: 480px;  
+  margin: 0;
+  border: 2px solid white;
+  padding: 30px;
+  border-radius: 10px;
+  background-image: url('https://t4.ftcdn.net/jpg/01/76/67/25/360_F_176672598_cJ4yPCFhxvDXm9Cu7vDLIcXpvTMQJ9zm.jpg');
+  background-size: cover;
+}
+
+/* This are the divs of home page */
+.homemain{
+  display: flex;
+    justify-content: center; /* Centers horizontally in page */
+    align-items: center; /* Centers vertically in page */
+    min-height: 100vh; /* Full height of the viewport */
+    background-color: #282c34; /*for all pages the same background color will be there  */
+}
+
+
+
+.homediv{
+   /*for every form the background image will be this*/
+  background-image: url('https://e0.pxfuel.com/wallpapers/413/893/desktop-wallpaper-dark-theme-black-theme.jpg');
+  border-radius: 10px;
+  width: 500px;
+  height: 470px;
+  margin: 40px;
+  border: 2px solid black;
+  
+}
+
+.registerdiv, .aboutdiv, .contactdiv, .facilitiesdiv{
+  border-radius: 20px;
+  width: 200px;
+  height: 50px;
+  margin: 52px;
+  border: 2px solid black;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  display: flex;
+    align-items: center; /* Vertically center text */
+    justify-content: center; /* Horizontally center text */
+    cursor: pointer; /*  pointer on hover */
+    background-color: #fafafa; 
+    transition: background-color 0.3s ease;
+}
+.registerdiv:hover, .aboutdiv:hover, .contactdiv:hover, .facilitiesdiv:hover {
+    background-color: #141414; 
+    color: white;
+}
+
+
+.headingthree{
+margin: 0;
+font-family: 'Times New Roman', Times, serif;  
+}
+
+
+/* End of all the divs of home page */
+/*background color property add this class in any div for color */
+.samebgcolor{
+      background-color: #282c34; /*for all pages the same background color will be there  */
+      
+      
+  min-height: 100vh;
+  width: 100%;
+  height: 100%;
+  color: white; /* Optional: make text visible on dark bg */
+  padding: 40px 20px; /* Optional spacing inside */
+  box-sizing: border-box;
+
+}
+.fontlight{
+  color: white;
+  font-family:serif;
+}
+
+/*Starting style for the about us page */
+.aboutusinnerdivfirst, .aboutusinnerdivsecond, .aboutusinnerdivthird, .aboutusinnerdivforth{
+  background-image: url('https://cdn.vectorstock.com/i/500p/03/64/abstract-geometric-black-background-vector-43950364.jpg');
+  width:600px;
+  height: 500px;
+  margin: 40px;;
+  border: 2px solid white;
+  border-radius: 10px;
+
+}
+.inneraboutfirst{
+  width: 460px;
+  height: 200px;
+  border: 2px solid white;
+  margin: 30px;
+  border-radius: 10px;
+background-color: white;
+  color: black;
+}
+.inneraboutsecond{
+  width: 460px;
+  height: 200px;
+  border: 2px solid white;
+  margin: 30px;
+  border-radius: 10px;
+  background-color: white;
+  color: black;
+}
+
+.thirddivfirst{
+  width: 460px;
+  height: 100px;
+  border: 2px solid white;
+  margin: 30px;
+  border-radius: 10px;
+  background-color: white;
+  color: black;
+}
+
+.thirddivsecond{
+  width: 460px;
+  height: 300px;
+  border: 2px solid white;
+  margin: 20px;
+  border-radius: 10px;
+  background-color: white;
+  color: black;
+}
+
+
+.thirddivfirstpara{
+  text-align: center;
+  font-size:larger;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 700;
+  
+}
+.thirddivfirstparaa{
+  text-align: center;
+  font-size:medium;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 100;
+}
+/*Ending style for the about us page */
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+/*Start of Student dashboard design*/
+.honeheading{
+  width: 400px;
+  height: 50px;
+  border: 2px solid white;
+  border-radius: 10px;
+}
+
+.honeheading:hover{
+  color: black;
+  background-color: white;
+    border: 2px solid brown;
+
+}
+div.searchdiv{
+  width:1200px;
+  height: 180px;
+    border: 2px solid white;
+    border-radius: 10px;
+    padding: 10px;
+    background-image: url('https://img.freepik.com/free-vector/abstract-business-professional-background-banner-design-multipurpose_1340-16916.jpg?semt=ais_hybrid&w=740');
+  background-size: cover;
+}
+
+.cardsdivlayout{
+  width: 1200px;
+  height: max-content;
+  border: 2px solid white;
+  border-radius: 10px;
+  background-image: url('https://img.freepik.com/free-vector/abstract-business-professional-background-banner-design-multipurpose_1340-16916.jpg?semt=ais_hybrid&w=740');
+  background-size: cover;
+}
+
+/*End of Student dashboard design*/
+
+/*Start of the contactus design*/
+.contactboarder{
+  width:900px;
+  height:900px;
+  margin: 40px;
+  border: 2px solid white;
+  border-radius: 10px;
+  background-image: url('https://media.istockphoto.com/id/656579244/vector/dark-striped-texture.jpg?s=612x612&w=0&k=20&c=PVMlP8ddlCJMZvpQD0ccxaPz9Su1Y0B3G88xDlsSnKU=');
+  
+
+}
+.innercontactfirst{
+  width:500px;
+  height:273px;
+  margin:30px;
+  border: 2px solid white;
+  border-radius: 10px;
+}
+.innercontactsecond{
+  width: 500px;
+  height: 550px;
+  margin: 30px;
+  border: 2px solid white;
+  border-radius: 10px;
+}
+/*End of the contactus design*/
+/*Start of the Home page design*/
+.parentdivone{
+  display: flex;
+  gap: 150px;
+}
+.collegeicon {
+  width: 100px;
+  height: 100px;
+  border: 2px solid #282c34;
+  border-radius: 50%;
+      /* 10px space from top */
+  margin-left: 20px;    /* move to left side */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 30px;
+  background-image: url('https://www.shutterstock.com/image-vector/lord-maa-saraswati-graphic-trendy-260nw-1708565569.jpg');
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;  /* ⬇️ break away from <center> alignment */
+  margin-right: auto; 
+}
+
+.samebgcolorhome{
+  background-color: #282c34;
+   /*for all pages the same background color will be there  */
+   height: 100vh;
+    height: 100%;
+      
+  padding: 20px;
+}
+
+.upsideicondiv{
+  padding: 20px;
+}
+.paradivhome{
+  font-size:50px;
+}
+.upsidepara{
+  padding-top: 40px;
+}
+.upsidebtn{
+  padding-top: 60px;
+}
+.mainimagediv{
+  height: 500px;
+  width: 700px;
+}
+/*End of the home page design*/
