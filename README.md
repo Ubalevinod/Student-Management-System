@@ -34,6 +34,18 @@ It provides both **Admin** and **Student Dashboards** with features like student
 - **Others**: REST APIs, GitHub for version control  
 
 ---
+## 🚀 Setup Instructions
+
+### 1. Backend (Spring Boot)
+1. Open the `backend` folder in Eclipse or IntelliJ.  
+2. Configure MySQL database in `application.properties`.  
+3. Run the Spring Boot application.
+
+### 2. Frontend (React)
+1. Open the `frontend` folder in VS Code.  
+2. Run `npm install` to install dependencies.  
+3. Run `npm start` to launch the frontend.
+
 
 ## 📸 Screenshots
 
@@ -60,3 +72,30 @@ It provides both **Admin** and **Student Dashboards** with features like student
 ### View Messages Page
 ![View Messages](docs/screenshots/View-Messages.png)
 
+
+---
+
+## 🚀 Setup Instructions
+
+### 1. Backend (Spring Boot)
+1. Open the `backend` folder in Eclipse or IntelliJ.  
+2. Configure MySQL database in `application.properties`.  
+3. Run the Spring Boot application.
+
+### 2. Frontend (React)
+1. Open the `frontend` folder in VS Code.  
+2. Run `npm install` to install dependencies.  
+3. Run `npm start` to launch the frontend.
+
+---
+
+## 📸 Screenshots
+- Admin Dashboard  
+- Student Dashboard  
+- Register Page  
+- View Messages  
+
+---
+
+## About
+A full-stack Student Management System that allows admins to manage students and messages, while students can view their data, search other students, and contact the admin.
