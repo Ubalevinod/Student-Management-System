@@ -38,10 +38,10 @@ It provides both **Admin** and **Student Dashboards** with features like student
 ## 📸 Screenshots
 
 ### Admin Dashboard
-![Admin Dashboard](docs/screenshots/admin-dashboard.png)
+![Admin Dashboard](docs/screenshots/Admin-Dashboard.png)
 
 ### Student Dashboard
-![Student Dashboard](docs/screenshots/student-dashboard.png)
+![Student Dashboard](docs/screenshots/Student-Dashboard.png)
 
 ### About Us Page
 ![About Us](docs/screenshots/About-Us.png)
