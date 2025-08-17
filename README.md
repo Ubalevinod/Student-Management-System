@@ -42,11 +42,20 @@ It provides both **Admin** and **Student Dashboards** with features like student
 
 ### Admin Dashboard
 ![Admin Dashboard](docs/screenshots/admin-dashboard.png)
+### About Us Page
+![About Us](docs/screenshots/About-Us.png)
 
----
+### Student Search (Admin)
+![Student Search Admin](docs/screenshots/Stduent-SearchingAdmin.png)
+### Home Page
+![Home Page](docs/screenshots/Home-page.png)
 
-## 🚀 Getting Started
+### Facilities Page
+![Facilities Page](docs/screenshots/Facilites-page.png)
 
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/Ubalevinod/Student-Management-System.git
+### Register Page
+![Register Page](docs/screenshots/Register-page.png)
+
+### View Messages Page
+![View Messages](docs/screenshots/View-Messages.png)
+
